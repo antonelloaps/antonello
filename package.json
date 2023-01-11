@@ -74,7 +74,7 @@
     "jquery-ui-bundle": "^1.12.1-migrate",
     "jquery.tipsy": "^1.0.3",
     "js-storage": "^1.0.4",
-    "jsonwebtoken": "^8.2.0",
+    "jsonwebtoken": "^9.0.0",
     "lodash": "^4.17.5",
     "long": "^3.2.0",
     "minimed-connect-to-nightscout": "git://github.com/mddub/minimed-connect-to-nightscout.git#v1.1.0",
